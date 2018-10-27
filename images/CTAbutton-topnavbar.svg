@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="259px" height="82px" viewBox="0 0 259 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>CTA button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="235" height="58"></rect>
+        <filter x="-9.1%" y="-25.0%" width="118.3%" height="174.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.566459396   0 0 0 0 0.174392339   0 0 0 0 0.326970159  0 0 0 0.303611866 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1016.000000, -43.000000)">
+            <g id="CTA-button" transform="translate(1028.000000, 48.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#E11665" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="get-paid-to-test" font-family="Metropolis-Medium, Metropolis" font-size="22" font-weight="400" letter-spacing="-0.629999995" fill="#FFFFFF">
+                    <tspan x="41.211" y="38">get paid to test</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

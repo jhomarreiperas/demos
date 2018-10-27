@@ -1,0 +1,110 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+/*-----Begin CSS Codes for Landing Page------*/
+
+/*------- Top Introduction Section -----------*/
+section.intro-section {
+	background: #FFF13E;
+	width: 100%;
+	height: 140vh;
+}
+
+section.intro-section img {
+	width: 100%;
+}
+
+#topbarblob {
+	width: 150px;
+	display: block;
+}
+#topbarlogo {
+	width: 100px;
+	margin-top: -80px;
+	margin-left: 35px;
+	margin-bottom: 100px;
+}
+#arrowtop {
+	width: 50px;
+	margin-top: -200px;
+}
+#wayswehelp {
+	width: 150px;
+	margin-top: -151px;
+}
+
+
+
+#bigarrow {
+	width: 50px;
+	float: right;
+	margin-right: 10px;
+	margin-top: 80px;
+}
+section.intro-section a {
+	padding: 10px 40px;
+	background: #E11665;
+	border: 0;
+	border-radius: 0;
+	float: right;
+	margin-top: 40px;
+}
+section.intro-section a:hover {
+	background: linear-gradient (#5949B2, #9D4670);
+}
+
+#arrowintro {
+	width: 100px;
+	float: right;
+	margin-top: -67px;
+	margin-right: 205px;
+}
+
+section.intro-section p {
+	margin-top: 50px;
+	text-align: center;
+}
+
+#highlightedTextUnderIntro {
+	font-size: 20px;
+	letter-spacing: 1px;
+	font-weight: 800;
+}
+
+#rocket {
+	width: 200px;
+	float: right;
+	margin-top: -100px;
+	margin-right: 100px;
+}
+
+#paperplane {
+	width: 30px;
+	display: block;
+	text-align: center;
+}
+
+#linkPlane {
+	margin: 0 auto;
+	margin-right: 120px;
+}
+
+#underCTA {
+	display: block;
+	margin-top: 70px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+}
